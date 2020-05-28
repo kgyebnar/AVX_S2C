@@ -6,6 +6,6 @@ This is a basic TF Template for
  - 2 site-to-cloud VPN connection - Non-HA
  - AVX VPC peering between the two VPC
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://www.gyebnarcsalad.hu/wp-content/uploads/2020/05/AVX_S2C.001.jpeg "Optional Title")
 
 - work in progress
